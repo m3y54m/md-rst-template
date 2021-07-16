@@ -22,6 +22,10 @@ interdum eget.
 
 Mauris fermentum nisl :code:`inline code or command` sed feugiat lobortis.
 
+  **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
+  facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
+  mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
+  
 .. uml::
 
     == Initialization ==
@@ -63,6 +67,12 @@ Sub-Title 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 .. code-block::
+
+  # General
+  Hello World!
+
+
+.. code-block::console
 
   # Console
   sudo apt-get update

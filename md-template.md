@@ -20,31 +20,19 @@ interdum eget.
 
 Mauris fermentum nisl `inline code or command` sed feugiat lobortis.
 
-> **Note:** Vestibulum at lacus ipsum.
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+> **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
+> facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
+> mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
 
 ## Sub-Title 1
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+| Syntax      | Description |
+|-------------|-------------|
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 ## Sub-Title 2
@@ -71,6 +59,16 @@ int main() {
     cout << "This is C++ Programming";
     return 0;
 }
+```
+
+```wavedrom
+{signal: [
+  {name: 'clk', wave: 'p.....|...'},
+  {name: 'dat', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
+  {name: 'req', wave: '0.1..0|1.0'},
+  {},
+  {name: 'ack', wave: '1.....|01.'}
+]}
 ```
 
 
