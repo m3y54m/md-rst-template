@@ -29,6 +29,10 @@ Mauris fermentum nisl :code:`inline code or command` sed feugiat lobortis.
 Morbi laoreet porttitor tellus eu [Link to Google](https://www.google.com) venenatis. Donec gravida mi non ultrices
 consequat.
 
+  **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
+  facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
+  mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
+
 .. figure:: /static/swan-babies.jpg
     :alt: Swan Babies
 
@@ -40,10 +44,6 @@ Image with link and caption:
   :target: http://www.google.com
 
   This is the caption of the figure with link to http://google.com
-
-  **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
-  facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
-  mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
   
 
 Sub-Title 1
