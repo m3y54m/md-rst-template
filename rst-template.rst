@@ -26,22 +26,6 @@ Mauris fermentum nisl :code:`inline code or command` sed feugiat lobortis.
   facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
   mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
   
-.. uml::
-
-    == Initialization ==
-  
-    Alice -> Bob: Authentication Request
-    Bob --> Alice: Authentication Response
-  
-    == Repetition ==
-  
-    Alice -> Bob: Another authentication Request
-    Alice <-- Bob: another authentication Response
-
-.. math::
-
-    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
-
 
 Sub-Title 1
 -------------
@@ -72,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Hello World!
 
 
-.. code-block::console
+.. code-block:: console
 
   # Console
   sudo apt-get update
@@ -96,3 +80,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       return 0;
   }
 
+
+.. code-block:: json
+
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+  }
