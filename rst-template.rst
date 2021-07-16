@@ -1,6 +1,10 @@
 Title 1
 ==========
 
+The official reference of reStructuredText:
+
+https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
 facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
 mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
@@ -25,11 +29,11 @@ Mauris fermentum nisl :code:`inline code or command` sed feugiat lobortis.
 Morbi laoreet porttitor tellus eu [Link to Google](https://www.google.com) venenatis. Donec gravida mi non ultrices
 consequat.
 
-.. image:: /static/swan-babies.jpg
+.. figure:: /static/swan-babies.jpg
     :alt: Swan Babies
-    :target: http://www.google.com
 
-Image with link:
+
+Image with link and caption:
 
 .. figure:: /static/swan-babies.jpg
   :alt: Swan Babies

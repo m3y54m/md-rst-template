@@ -1,5 +1,9 @@
 # Title 1
 
+The official reference of Markdown:
+
+https://daringfireball.net/projects/markdown/syntax
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
 facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
 mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
