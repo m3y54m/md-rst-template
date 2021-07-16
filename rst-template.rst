@@ -27,6 +27,7 @@ consequat.
 
 .. image:: /static/swan-babies.jpg
     :alt: Swan Babies
+    :target: http://www.google.com
 
 Image with link:
 
