@@ -39,13 +39,24 @@ Image with link:
 
 ## Sub-Title 1
 
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 | Syntax      | Description |
 |-------------|-------------|
 | Header      | Title       |
 | Paragraph   | Text        |
+
+## Sub-Title 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+
+1. Lorem ipsum dolor sit amet
+1. Lorem ipsum dolor sit amet
+1. Lorem ipsum dolor sit amet
 
 
 ## Sub-Title 2
