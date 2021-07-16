@@ -20,6 +20,15 @@ interdum eget.
 
 Mauris fermentum nisl `inline code or command` sed feugiat lobortis.
 
+Morbi laoreet porttitor tellus eu [Link to Google](https://www.google.com) venenatis. Donec gravida mi non ultrices
+consequat.
+
+![Swan Babies](/static/swan-babies.jpg)
+
+Image with link:
+
+[![Swan Babies](/static/swan-babies.jpg "Swan Babies Hover")](https://www.google.com)
+
 > **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
 > facilisis vitae ultricies sed, malesuada fringilla erat. Nullam imperdiet
 > mollis porta. Sed hendrerit tempor nulla, nec accumsan ligula sagittis ut.
