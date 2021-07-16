@@ -26,7 +26,7 @@ interdum eget.
 
 Mauris fermentum nisl :code:`inline code or command` sed feugiat lobortis.
 
-Morbi laoreet porttitor tellus eu [Link to Google](https://www.google.com) venenatis. Donec gravida mi non ultrices
+Morbi laoreet porttitor tellus eu `Link to Google <https://www.google.com>`_ venenatis. Donec gravida mi non ultrices
 consequat.
 
   **Quote:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ante est,
