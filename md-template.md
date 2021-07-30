@@ -69,8 +69,8 @@ Hello World!
 ```
 
 ```console
-  # Console
-  sudo apt-get update
+# Console
+sudo apt-get update
 ``` 
   
 ```python
